@@ -1,0 +1,16 @@
+//
+//  YourFinanceTrackerTests.swift
+//  YourFinanceTrackerTests
+//
+//  Created by Parvana Jananova on 17.06.26.
+//
+
+import Testing
+
+struct YourFinanceTrackerTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
